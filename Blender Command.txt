@@ -1,0 +1,22 @@
+g			//move the object as right click
+s 			//scale the object
+r 			//rotate
+x,y,z		//move the object by x y z direction
+x, del		//delete object
+shift a 	//add the object
+space		//seach menu
+	exlode		//animation exlode
+	add sphere	//add a sphere
+	mark sean	//mark point to red
+properties:
+	Vertices	16
+tab			//edit mode
+edit mode:
+	a 		//select all
+	Ctrl r 	//make more points
+	b 		//select option
+	e 		//resize the points
+Ctrl j		//join object
+alt			//select same line
+UI:
+	l 		//selec unwrap
